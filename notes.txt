@@ -1,0 +1,34 @@
+# Mailman downloader
+
+https://github.com/corydolphin/mailman-downloader
+
+# Importing mail data in R
+1.
+https://stackoverflow.com/questions/32879496/import-and-parse-eml-files
+
+2.
+https://medium.com/@verajosemanuel/processing-mail-using-r-11de895b8ea
+
+# Converter from mbox into csv
+
+https://github.com/jarrodparkes/mbox-to-csv
+
+# Mailing archives
+
+1. The nfbcs Archives
+http://nfbnet.org/pipermail/nfbcs_nfbnet.org/
+
+2. BlindMath
+http://nfbnet.org/pipermail/blindmath_nfbnet.org/
+
+3. Nfb-science 
+http://nfbnet.org/pipermail/nfb-science_nfbnet.org/
+
+4. raspberry-vi
+https://www.freelists.org/archive/raspberry-vi/
+
+5. programmingblind
+https://www.freelists.org/archive/programmingblind/
+
+6. The BlindRUG Archives
+http://nfbnet.org/pipermail/blindrug_nfbnet.org/
